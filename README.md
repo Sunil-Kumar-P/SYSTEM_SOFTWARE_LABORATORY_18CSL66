@@ -71,7 +71,7 @@ T3 T1 * T2
 A T3 = ?
 ? ? ? ?
 
-cc program4.c
+cc program5.c
 ./a.out
 
 cat output.txt
